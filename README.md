@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Mandala 
+
+**Link:** https://aaron-sherwood.com/works/mandala/mandala_details.html
+
+For my article, I chose to discuss a project I worked on as a research assistant for Professor Aaron Sherwood at NYUAD. This project was really interesting because he created a wooden installation that uses software to track the viewers breath and represent that through movement of the wooden "fish." The program he designed was completely original and far more complicated what I had worked on previously. Although I found it to be a great challenge, helping him troubleshoot bugs and further develop the system was a great learning experience. Professor Sherwood's work also taught me a great deal about Interactive Media, and the interesting ways in which you can apply computer science technical skills to creative expression. 
